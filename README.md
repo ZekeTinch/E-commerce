@@ -7,4 +7,4 @@ The index.js was used to set up where the routes belong and what they connect to
 The routes were used to complete the functionality for each request sent to the server.
 
 github link: https://github.com/ZekeTinch/E-commerce
-video link:
+video link: https://drive.google.com/file/d/195BXGuB4i0ly09ge8JCPxq98kArS8lNR/view 
